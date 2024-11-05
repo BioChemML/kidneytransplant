@@ -1,1 +1,3 @@
-# kidneytransplant
+# Abstract
+
+This dataset includes CosMx spatial transcriptomic data from human kidney biopsies collected one hour post-transplantation. Patients were then monitored and categorized into two groups: those with immediate graft function (IGF) and those with delayed graft function (DGF). DGF refers to cases where patients required dialysis for one or more weeks before kidney function was restored. The biopsies were formalin-fixed, paraffin-embedded, and sectioned using a microtome. Sample processing followed NanoString's standard protocol, utilizing a pre-made 6,000-gene panel to detect the spatial location and expression levels of each gene, without any additional custom probes. This project aims to identify dysregulated genes and signaling pathways associated with DGF.
